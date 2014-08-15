@@ -1,0 +1,15 @@
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\bin\Debug\VS_Solution.exe.config
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\bin\Debug\VS_Solution.exe
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\bin\Debug\VS_Solution.pdb
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.csprojResolveAssemblyReference.cache
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\MainWindow.baml
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\MainWindow.g.cs
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\App.g.cs
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution_MarkupCompile.cache
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.g.resources
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.Properties.Resources.resources
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.csproj.GenerateResource.Cache
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.exe
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\VS_Solution.pdb
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\App_DownloadFiles.baml
+c:\users\guðmundur\documents\visual studio 2013\Projects\VS_Solution\VS_Solution\obj\Debug\App_DownloadFiles.g.cs

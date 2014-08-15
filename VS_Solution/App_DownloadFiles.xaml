@@ -1,0 +1,26 @@
+﻿<Window x:Class="VS_Solution.App_DownloadFiles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Download Files" Height="350" Width="400">
+    <Grid>
+        <StackPanel Margin="10,10,262,126">
+            <Label Content="Url:" FontWeight="Bold"/>
+            <Label Content="Output Folder:" FontWeight="Bold"/>
+            <Label Content="From:" FontWeight="Bold"/>
+            <Label Content="To:" FontWeight="Bold"/>
+            <Label Content="String to replace:" FontWeight="Bold"/>
+            <Label Content="Output File Name:" FontWeight="Bold"/>
+        </StackPanel>
+        <StackPanel Margin="135,10,10,126">
+            <TextBox x:Name="UI_Url" Height="27" Text="http://s3.tinyvid.net/otaku/qEOk8HaWuN38HAmzTxaUiw/1405988236/1815epSUN-Dragon_Ball.mp4"/>
+            <TextBox x:Name="UI_Out" Height="27" Text="C:\Users\Guðmundur\Downloads"/>
+            <TextBox x:Name="UI_From" Height="27" Text="70"/>
+            <TextBox x:Name="UI_To" Height="27" Text="72"/>
+            <TextBox x:Name="UI_Replace" Height="27" Text="SUN"/>
+            <TextBox x:Name="UI_Name" Height="27" Text="Dragon Ball"/>
+        </StackPanel>
+        <Button x:Name="UI_Start" Content="Start" HorizontalAlignment="Left" Margin="135,198,0,0" VerticalAlignment="Top" Width="247" Height="63" BorderBrush="#FFBDBDBD" Click="UI_Start_Click"/>
+        <ProgressBar x:Name="UI_PB" HorizontalAlignment="Left" Height="43" Margin="10,266,0,0" VerticalAlignment="Top" Width="372"/>
+        <Label x:Name="UI_Done" Content="" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top" Height="63" Width="120" FontWeight="Bold" FontSize="13"/>
+    </Grid>
+</Window>
